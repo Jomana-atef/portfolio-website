@@ -50,7 +50,7 @@ section{
     min-height: 100vh; /*ALL VIEW PART*/
     display: flex;
     align-items: center;
-    background: url(images/smiley-businesswoman-posing-outdoors-with-arms-crossed.jpg) no-repeat;
+    background: url(./images/smiley-businesswoman-posing-outdoors-with-arms-crossed.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed; /*fixed image when scrolling*/
     
